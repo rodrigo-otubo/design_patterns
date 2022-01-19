@@ -10,6 +10,10 @@ Fonte: Refactoring Guru
 Permite que o objeto passe por uma cadeia de handlers, ou seja, ao receber a requisição
 cada handler decide se processa ou passa para outro handler da cadeia.
 
+
+<img width="430" alt="Captura de Tela 2022-01-18 às 22 39 00" src="https://user-images.githubusercontent.com/24915267/150047395-8ad128c8-000a-46e8-b34e-650d35b69e96.png">
+
+
 ## Aplicabilidade
 
 > * Utilize o padrão Chain of Responsability quando você espera que seu programa
