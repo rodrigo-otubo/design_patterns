@@ -6,9 +6,10 @@ Fonte: Refactoring Guru
 ---
 
 ## Resumo
-<j> Permite transformar um pedido em um objeto independente que contém toda a informação sobre o pedido. Essa transformação 
+<dt>justify</dt>
+Permite transformar um pedido em um objeto independente que contém toda a informação sobre o pedido. Essa transformação 
 permite que você parametrize métodos com diferentes pedidos, atrase ou coloque a execução do pedido em uma fila, e 
-suporte operações que não podem ser feitas. </j>
+suporte operações que não podem ser feitas.
 
 <img width="452" alt="Captura de Tela 2022-01-18 às 23 41 12" src="https://user-images.githubusercontent.com/24915267/150053588-4b56096a-4b60-45c0-b781-de647bc66390.png">
 
