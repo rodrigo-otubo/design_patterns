@@ -20,7 +20,8 @@ cada handler decide se processa ou passa para outro handler da cadeia.
 > todos passando por todos os handlers.
 > * Utilize quando for necessário executar diversos handlers em uma ordem específica.
 
-![Captura de Tela 2022-01-18 às 22 40 58](https://user-images.githubusercontent.com/24915267/150047634-639765f3-b85b-491f-8cdb-cea77163c229.png)
+![Captura de Tela 2022-01-18 às 23 10 07](https://user-images.githubusercontent.com/24915267/150050378-c06f1323-8eaf-48b4-a436-934cf16c8aa2.png)
+
 
 ## Prós
 > * Pode controlar os handlers na ordem que quiser
