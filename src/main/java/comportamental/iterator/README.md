@@ -9,6 +9,7 @@ Fonte: Refactoring Guru
 Permite a você percorrer elementos de uma coleção sem expor as representações dele (lista, pilha, árvore, etc.)
 
 
+![Captura de Tela 2022-01-19 às 23 44 49](https://user-images.githubusercontent.com/24915267/150262817-c7b94c97-3d84-4b22-aca5-2723cca37ac5.png)
 
 
 ## Aplicabilidade
@@ -17,7 +18,7 @@ Permite a você percorrer elementos de uma coleção sem expor as representaçõ
 > * Utilize o padrão para reduzir a duplicação de código de travessia em sua aplicação.
 > * Utilize o Iterator quando você quer que seu código seja capaz de percorrer diferentes estruturas de dados ou quando os tipos dessas estruturas são desconhecidos de antemão.
 
-
+![Captura de Tela 2022-01-19 às 23 45 14](https://user-images.githubusercontent.com/24915267/150262867-31f07dbe-6083-44c5-9058-d28a5624a7a1.png)
 
 
 ## Prós
