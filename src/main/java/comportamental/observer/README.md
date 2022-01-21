@@ -11,6 +11,7 @@ Permite que você defina um mecanismo de assinatura para notificar múltiplos ob
 ## Aplicabilidade
 > * Utilize o padrão Observer quando mudanças no estado de um objeto podem precisar mudar outros objetos, e o atual conjunto de objetos é desconhecido de antemão ou muda dinamicamente.
 > * Utilize o padrão quando alguns objetos em sua aplicação devem observar outros, mas apenas por um tempo limitado ou em casos específicos.
+
 ![Captura de Tela 2022-01-20 às 22 40 18](https://user-images.githubusercontent.com/24915267/150450050-367ff7fc-85d1-4b62-aba8-3d481f4fe591.png)
 
 
