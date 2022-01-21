@@ -13,6 +13,8 @@ Permite que você separe algoritmos dos objetos nos quais eles operam.
 > * Utilize o Visitor para limpar a lógica de negócio de comportamentos auxiliares.
 > * Utilize o padrão quando um comportamento faz sentido apenas dentro de algumas classes de uma uma hierarquia de classe, mas não em outras.
 
+![Captura de Tela 2022-01-20 às 23 00 46](https://user-images.githubusercontent.com/24915267/150452183-1e151d0c-222d-46da-831e-891aff9b51ba.png)
+
 
 ## Prós
 > * Princípio aberto/fechado. Você pode introduzir um novo comportamento que pode funcionar com objetos de diferentes classes sem mudar essas classes.
