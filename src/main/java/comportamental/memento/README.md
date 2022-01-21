@@ -33,4 +33,4 @@ Permite que você salve e restaure o estado anterior de um objeto sem revelar os
 ## Contras
 > * A aplicação pode consumir muita RAM se os clientes criarem mementos com muita frequência.
 > * Cuidadoras devem acompanhar o ciclo de vida da originadora para serem capazes de destruir mementos obsoletos.
-> A maioria das linguagens de programação dinâmicas, tais como PHP, Python, e JavaScript, não conseguem garantir que o estado dentro do memento permaneça intacto.
+> * A maioria das linguagens de programação dinâmicas, tais como PHP, Python, e JavaScript, não conseguem garantir que o estado dentro do memento permaneça intacto.
